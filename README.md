@@ -1,5 +1,5 @@
 # AI-Author-Prediction
-# Text Authorship Classifier
+## Text Authorship Classifier
 
 This is a Python script that uses a simple text authorship classifier to determine the most likely author of a given text snippet. The classifier is implemented using the scikit-learn library and relies on the Multinomial Naive Bayes algorithm. It is trained on the works of three authors: Emma Goldman, Matthew Hensen, and Tingfang Wu.
 
